@@ -31,12 +31,12 @@ public class P4_SonstigeTypen {
 		
 		
 		// Zeichentypen
-		char z = 'é';             // Zeichenvariable, 16bit, 0 bis 65535
+		/*char z = 'é';             // Zeichenvariable, 16bit, 0 bis 65535
 		String text = "blafasel"; // Zeichenkettenvariable
 		
 		System.out.println("Zeichen: " + z);
 		System.out.println("Text: " + text);
-
+*/
 	}
 
 }

@@ -2,7 +2,7 @@ package tag02;
 
 import java.util.Scanner;  // Einbinden der Scanner-Klasse
 
-public class Eingabe {
+public class Eingabe1 {
 
 	public static void main(String[] args) {
 		
